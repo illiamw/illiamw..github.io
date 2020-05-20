@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/app/CPv2/static/css/main.298e93ff.chunk.css",
-    "main.js": "/app/CPv2/static/js/main.0037cc84.chunk.js",
-    "main.js.map": "/app/CPv2/static/js/main.0037cc84.chunk.js.map",
+    "main.css": "/app/CPv2/static/css/main.47664478.chunk.css",
+    "main.js": "/app/CPv2/static/js/main.11fcb459.chunk.js",
+    "main.js.map": "/app/CPv2/static/js/main.11fcb459.chunk.js.map",
     "runtime-main.js": "/app/CPv2/static/js/runtime-main.317b0302.js",
     "runtime-main.js.map": "/app/CPv2/static/js/runtime-main.317b0302.js.map",
     "static/css/2.cde7393f.chunk.css": "/app/CPv2/static/css/2.cde7393f.chunk.css",
-    "static/js/2.4c656e35.chunk.js": "/app/CPv2/static/js/2.4c656e35.chunk.js",
-    "static/js/2.4c656e35.chunk.js.map": "/app/CPv2/static/js/2.4c656e35.chunk.js.map",
+    "static/js/2.9e1e9d5a.chunk.js": "/app/CPv2/static/js/2.9e1e9d5a.chunk.js",
+    "static/js/2.9e1e9d5a.chunk.js.map": "/app/CPv2/static/js/2.9e1e9d5a.chunk.js.map",
     "index.html": "/app/CPv2/index.html",
-    "precache-manifest.98eed99e9b1fb9d781a998d7069e3a7e.js": "/app/CPv2/precache-manifest.98eed99e9b1fb9d781a998d7069e3a7e.js",
+    "precache-manifest.9f80433a5f6913ee710fea9b1d7f87b7.js": "/app/CPv2/precache-manifest.9f80433a5f6913ee710fea9b1d7f87b7.js",
     "service-worker.js": "/app/CPv2/service-worker.js",
     "static/css/2.cde7393f.chunk.css.map": "/app/CPv2/static/css/2.cde7393f.chunk.css.map",
-    "static/css/main.298e93ff.chunk.css.map": "/app/CPv2/static/css/main.298e93ff.chunk.css.map",
-    "static/js/2.4c656e35.chunk.js.LICENSE.txt": "/app/CPv2/static/js/2.4c656e35.chunk.js.LICENSE.txt",
-    "static/media/diretrizes.css": "/app/CPv2/static/media/69.8a415773.jpg",
-    "static/media/componentes.css": "/app/CPv2/static/media/logo.96128386.jpg"
+    "static/css/main.47664478.chunk.css.map": "/app/CPv2/static/css/main.47664478.chunk.css.map",
+    "static/js/2.9e1e9d5a.chunk.js.LICENSE.txt": "/app/CPv2/static/js/2.9e1e9d5a.chunk.js.LICENSE.txt",
+    "static/media/componentes.css": "/app/CPv2/static/media/logo.96128386.jpg",
+    "static/media/diretrizes.css": "/app/CPv2/static/media/bgVitoria.3e2e8af2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.317b0302.js",
     "static/css/2.cde7393f.chunk.css",
-    "static/js/2.4c656e35.chunk.js",
-    "static/css/main.298e93ff.chunk.css",
-    "static/js/main.0037cc84.chunk.js"
+    "static/js/2.9e1e9d5a.chunk.js",
+    "static/css/main.47664478.chunk.css",
+    "static/js/main.11fcb459.chunk.js"
   ]
 }
