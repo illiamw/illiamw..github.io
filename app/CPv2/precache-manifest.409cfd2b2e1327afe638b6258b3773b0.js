@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b8d4a26fc6a8ab4a6563b41fa1ad11c",
+    "revision": "2ad97b3b2d19f7e1ed68a7e6ab574424",
     "url": "/app/CPv2/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/CPv2/static/css/2.cde7393f.chunk.css"
   },
   {
-    "revision": "1cb252cf6f7029ca55dc",
-    "url": "/app/CPv2/static/css/main.8e32ca52.chunk.css"
+    "revision": "b4bf6a2b4f763d964660",
+    "url": "/app/CPv2/static/css/main.94ac283a.chunk.css"
   },
   {
     "revision": "ab0bb4c8c8b3ea4461b2",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/CPv2/static/js/2.88733646.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1cb252cf6f7029ca55dc",
-    "url": "/app/CPv2/static/js/main.47f458e6.chunk.js"
+    "revision": "b4bf6a2b4f763d964660",
+    "url": "/app/CPv2/static/js/main.c0573dcc.chunk.js"
   },
   {
     "revision": "f5c6072bb46b036144bc",
