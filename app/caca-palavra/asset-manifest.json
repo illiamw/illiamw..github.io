@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/app/caca-palavra/static/css/main.52c69958.chunk.css",
-    "main.js": "/app/caca-palavra/static/js/main.5e3f01e4.chunk.js",
-    "main.js.map": "/app/caca-palavra/static/js/main.5e3f01e4.chunk.js.map",
+    "main.css": "/app/caca-palavra/static/css/main.a73818f1.chunk.css",
+    "main.js": "/app/caca-palavra/static/js/main.a6c1b354.chunk.js",
+    "main.js.map": "/app/caca-palavra/static/js/main.a6c1b354.chunk.js.map",
     "runtime-main.js": "/app/caca-palavra/static/js/runtime-main.69e4df0a.js",
     "runtime-main.js.map": "/app/caca-palavra/static/js/runtime-main.69e4df0a.js.map",
     "static/css/2.cde7393f.chunk.css": "/app/caca-palavra/static/css/2.cde7393f.chunk.css",
     "static/js/2.1a1624eb.chunk.js": "/app/caca-palavra/static/js/2.1a1624eb.chunk.js",
     "static/js/2.1a1624eb.chunk.js.map": "/app/caca-palavra/static/js/2.1a1624eb.chunk.js.map",
     "index.html": "/app/caca-palavra/index.html",
-    "precache-manifest.acdcb54b44a35ce2082448de3f50c4ab.js": "/app/caca-palavra/precache-manifest.acdcb54b44a35ce2082448de3f50c4ab.js",
+    "precache-manifest.ea60eab58ce281a327953ef46910ca80.js": "/app/caca-palavra/precache-manifest.ea60eab58ce281a327953ef46910ca80.js",
     "service-worker.js": "/app/caca-palavra/service-worker.js",
     "static/css/2.cde7393f.chunk.css.map": "/app/caca-palavra/static/css/2.cde7393f.chunk.css.map",
-    "static/css/main.52c69958.chunk.css.map": "/app/caca-palavra/static/css/main.52c69958.chunk.css.map",
+    "static/css/main.a73818f1.chunk.css.map": "/app/caca-palavra/static/css/main.a73818f1.chunk.css.map",
     "static/js/2.1a1624eb.chunk.js.LICENSE.txt": "/app/caca-palavra/static/js/2.1a1624eb.chunk.js.LICENSE.txt",
-    "static/media/componentes.css": "/app/caca-palavra/static/media/69.8a415773.jpg",
-    "static/media/diretrizes.css": "/app/caca-palavra/static/media/bgVitoria.3e2e8af2.jpg",
-    "static/media/logo.jpg": "/app/caca-palavra/static/media/logo.96128386.jpg"
+    "static/media/componentes.css": "/app/caca-palavra/static/media/69.95c1c540.webp",
+    "static/media/diretrizes.css": "/app/caca-palavra/static/media/bgVitoria.2d52d650.webp",
+    "static/media/logo.webp": "/app/caca-palavra/static/media/logo.2f3ff5a8.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.69e4df0a.js",
     "static/css/2.cde7393f.chunk.css",
     "static/js/2.1a1624eb.chunk.js",
-    "static/css/main.52c69958.chunk.css",
-    "static/js/main.5e3f01e4.chunk.js"
+    "static/css/main.a73818f1.chunk.css",
+    "static/js/main.a6c1b354.chunk.js"
   ]
 }
