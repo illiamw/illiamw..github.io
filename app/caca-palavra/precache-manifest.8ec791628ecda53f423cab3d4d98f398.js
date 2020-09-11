@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fccaf1dca24549f2b0306bb14b12f7aa",
+    "revision": "481d6bf3cfc19844b788241fb2e6190b",
     "url": "/app/caca-palavra/index.html"
   },
   {
