@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/app/caca-palavra/static/css/main.24a92029.chunk.css",
-    "main.js": "/app/caca-palavra/static/js/main.a6c1b354.chunk.js",
-    "main.js.map": "/app/caca-palavra/static/js/main.a6c1b354.chunk.js.map",
+    "main.js": "/app/caca-palavra/static/js/main.99fa7035.chunk.js",
+    "main.js.map": "/app/caca-palavra/static/js/main.99fa7035.chunk.js.map",
     "runtime-main.js": "/app/caca-palavra/static/js/runtime-main.69e4df0a.js",
     "runtime-main.js.map": "/app/caca-palavra/static/js/runtime-main.69e4df0a.js.map",
     "static/css/2.cde7393f.chunk.css": "/app/caca-palavra/static/css/2.cde7393f.chunk.css",
     "static/js/2.1a1624eb.chunk.js": "/app/caca-palavra/static/js/2.1a1624eb.chunk.js",
     "static/js/2.1a1624eb.chunk.js.map": "/app/caca-palavra/static/js/2.1a1624eb.chunk.js.map",
     "index.html": "/app/caca-palavra/index.html",
-    "precache-manifest.4e501b9cb89428cfa1f04f8d954454db.js": "/app/caca-palavra/precache-manifest.4e501b9cb89428cfa1f04f8d954454db.js",
+    "precache-manifest.0e8843c7c8fe6938cb03a2751a2a51bb.js": "/app/caca-palavra/precache-manifest.0e8843c7c8fe6938cb03a2751a2a51bb.js",
     "service-worker.js": "/app/caca-palavra/service-worker.js",
     "static/css/2.cde7393f.chunk.css.map": "/app/caca-palavra/static/css/2.cde7393f.chunk.css.map",
     "static/css/main.24a92029.chunk.css.map": "/app/caca-palavra/static/css/main.24a92029.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.cde7393f.chunk.css",
     "static/js/2.1a1624eb.chunk.js",
     "static/css/main.24a92029.chunk.css",
-    "static/js/main.a6c1b354.chunk.js"
+    "static/js/main.99fa7035.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52158e74b0226eb1a8ba16f0108db9b7",
+    "revision": "fba0ab511833c31a1c721cdf8a6ab528",
     "url": "/app/caca-palavra/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/caca-palavra/static/css/2.cde7393f.chunk.css"
   },
   {
-    "revision": "305a3c78ecb46545bf48",
+    "revision": "3dafe335bf241205626f",
     "url": "/app/caca-palavra/static/css/main.24a92029.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/caca-palavra/static/js/2.1a1624eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "305a3c78ecb46545bf48",
-    "url": "/app/caca-palavra/static/js/main.a6c1b354.chunk.js"
+    "revision": "3dafe335bf241205626f",
+    "url": "/app/caca-palavra/static/js/main.99fa7035.chunk.js"
   },
   {
     "revision": "d61b081b8c839c311434",
