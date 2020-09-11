@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/app/caca-palavra/precache-manifest.d210e1595eb79b229b9928e844678f5d.js"
+  "/app/caca-palavra/precache-manifest.76d8972861add0554421146d92526e2c.js"
 );
 
 self.addEventListener('message', (event) => {

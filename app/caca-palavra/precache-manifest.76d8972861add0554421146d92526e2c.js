@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f842d3e914ac6a4e0b96364f213b73f9",
+    "revision": "ccbda4f6e42f63eeda0d4e943e78e766",
     "url": "/app/caca-palavra/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/caca-palavra/static/css/2.cde7393f.chunk.css"
   },
   {
-    "revision": "f3daf06d144c1ecb488a",
-    "url": "/app/caca-palavra/static/css/main.ac760dd3.chunk.css"
+    "revision": "305a3c78ecb46545bf48",
+    "url": "/app/caca-palavra/static/css/main.24a92029.chunk.css"
   },
   {
     "revision": "72653bef8443a8673be8",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/caca-palavra/static/js/2.1a1624eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f3daf06d144c1ecb488a",
+    "revision": "305a3c78ecb46545bf48",
     "url": "/app/caca-palavra/static/js/main.a6c1b354.chunk.js"
   },
   {
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "62af9bfb73037a825ea036cab48f66e1",
     "url": "/app/caca-palavra/static/media/69.62af9bfb.webp"
+  },
+  {
+    "revision": "34c993df60783aa1675bf91cb4e27279",
+    "url": "/app/caca-palavra/static/media/69_mobile.34c993df.webp"
   },
   {
     "revision": "2d52d650379a3d40588f6f9931ca9137",
