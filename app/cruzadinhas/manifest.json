@@ -19,6 +19,7 @@
     }
   ],
   "start_url": "https://illiamw.github.io/app/cruzadinhas/",
+  "start_url_alt": "https://eic.ifsc.usp.br/app/cruzadinhas/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
