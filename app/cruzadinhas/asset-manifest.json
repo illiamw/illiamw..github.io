@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/app/cruzadinhas/static/css/main.a29a0dd9.chunk.css",
-    "main.js": "/app/cruzadinhas/static/js/main.6f67eedf.chunk.js",
-    "main.js.map": "/app/cruzadinhas/static/js/main.6f67eedf.chunk.js.map",
+    "main.css": "/app/cruzadinhas/static/css/main.3839d6c7.chunk.css",
+    "main.js": "/app/cruzadinhas/static/js/main.e19f911f.chunk.js",
+    "main.js.map": "/app/cruzadinhas/static/js/main.e19f911f.chunk.js.map",
     "runtime-main.js": "/app/cruzadinhas/static/js/runtime-main.53ea244d.js",
     "runtime-main.js.map": "/app/cruzadinhas/static/js/runtime-main.53ea244d.js.map",
     "static/js/2.fbf36515.chunk.js": "/app/cruzadinhas/static/js/2.fbf36515.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.1f177463.chunk.js": "/app/cruzadinhas/static/js/3.1f177463.chunk.js",
     "static/js/3.1f177463.chunk.js.map": "/app/cruzadinhas/static/js/3.1f177463.chunk.js.map",
     "index.html": "/app/cruzadinhas/index.html",
-    "static/css/main.a29a0dd9.chunk.css.map": "/app/cruzadinhas/static/css/main.a29a0dd9.chunk.css.map",
+    "static/css/main.3839d6c7.chunk.css.map": "/app/cruzadinhas/static/css/main.3839d6c7.chunk.css.map",
     "static/js/2.fbf36515.chunk.js.LICENSE.txt": "/app/cruzadinhas/static/js/2.fbf36515.chunk.js.LICENSE.txt",
     "static/media/Diretrizes.scss": "/app/cruzadinhas/static/media/background.0b3b7369.png"
   },
   "entrypoints": [
     "static/js/runtime-main.53ea244d.js",
     "static/js/2.fbf36515.chunk.js",
-    "static/css/main.a29a0dd9.chunk.css",
-    "static/js/main.6f67eedf.chunk.js"
+    "static/css/main.3839d6c7.chunk.css",
+    "static/js/main.e19f911f.chunk.js"
   ]
 }
