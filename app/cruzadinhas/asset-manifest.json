@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/app/cruzadinhas/static/css/main.82228802.chunk.css",
+    "main.css": "/app/cruzadinhas/static/css/main.722960ba.chunk.css",
     "main.js": "/app/cruzadinhas/static/js/main.456c104f.chunk.js",
     "main.js.map": "/app/cruzadinhas/static/js/main.456c104f.chunk.js.map",
     "runtime-main.js": "/app/cruzadinhas/static/js/runtime-main.7b63ea87.js",
@@ -12,7 +12,7 @@
     "static/js/4.c1ceb135.chunk.js": "/app/cruzadinhas/static/js/4.c1ceb135.chunk.js",
     "static/js/4.c1ceb135.chunk.js.map": "/app/cruzadinhas/static/js/4.c1ceb135.chunk.js.map",
     "index.html": "/app/cruzadinhas/index.html",
-    "static/css/main.82228802.chunk.css.map": "/app/cruzadinhas/static/css/main.82228802.chunk.css.map",
+    "static/css/main.722960ba.chunk.css.map": "/app/cruzadinhas/static/css/main.722960ba.chunk.css.map",
     "static/js/2.640dd33a.chunk.js.LICENSE.txt": "/app/cruzadinhas/static/js/2.640dd33a.chunk.js.LICENSE.txt",
     "static/media/Diretrizes.scss": "/app/cruzadinhas/static/media/bgVitoria.879cde5a.webp",
     "static/media/logo-eic-horizontal.822a9f0d.svg": "/app/cruzadinhas/static/media/logo-eic-horizontal.822a9f0d.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.7b63ea87.js",
     "static/js/2.640dd33a.chunk.js",
-    "static/css/main.82228802.chunk.css",
+    "static/css/main.722960ba.chunk.css",
     "static/js/main.456c104f.chunk.js"
   ]
 }
