@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/app/cruzadinhas/static/css/main.c1ea57fd.chunk.css",
-    "main.js": "/app/cruzadinhas/static/js/main.d5e1f2e2.chunk.js",
-    "main.js.map": "/app/cruzadinhas/static/js/main.d5e1f2e2.chunk.js.map",
-    "runtime-main.js": "/app/cruzadinhas/static/js/runtime-main.f5c5c31d.js",
-    "runtime-main.js.map": "/app/cruzadinhas/static/js/runtime-main.f5c5c31d.js.map",
+    "main.js": "/app/cruzadinhas/static/js/main.cb58a300.chunk.js",
+    "main.js.map": "/app/cruzadinhas/static/js/main.cb58a300.chunk.js.map",
+    "runtime-main.js": "/app/cruzadinhas/static/js/runtime-main.dfa7ab69.js",
+    "runtime-main.js.map": "/app/cruzadinhas/static/js/runtime-main.dfa7ab69.js.map",
     "static/js/2.dc9c6be1.chunk.js": "/app/cruzadinhas/static/js/2.dc9c6be1.chunk.js",
     "static/js/2.dc9c6be1.chunk.js.map": "/app/cruzadinhas/static/js/2.dc9c6be1.chunk.js.map",
-    "static/js/3.d2d014bd.chunk.js": "/app/cruzadinhas/static/js/3.d2d014bd.chunk.js",
-    "static/js/3.d2d014bd.chunk.js.map": "/app/cruzadinhas/static/js/3.d2d014bd.chunk.js.map",
-    "static/js/4.05736a3a.chunk.js": "/app/cruzadinhas/static/js/4.05736a3a.chunk.js",
-    "static/js/4.05736a3a.chunk.js.map": "/app/cruzadinhas/static/js/4.05736a3a.chunk.js.map",
+    "static/js/3.c734bbcf.chunk.js": "/app/cruzadinhas/static/js/3.c734bbcf.chunk.js",
+    "static/js/3.c734bbcf.chunk.js.map": "/app/cruzadinhas/static/js/3.c734bbcf.chunk.js.map",
+    "static/js/4.59027b0f.chunk.js": "/app/cruzadinhas/static/js/4.59027b0f.chunk.js",
+    "static/js/4.59027b0f.chunk.js.map": "/app/cruzadinhas/static/js/4.59027b0f.chunk.js.map",
     "index.html": "/app/cruzadinhas/index.html",
     "static/css/main.c1ea57fd.chunk.css.map": "/app/cruzadinhas/static/css/main.c1ea57fd.chunk.css.map",
     "static/js/2.dc9c6be1.chunk.js.LICENSE.txt": "/app/cruzadinhas/static/js/2.dc9c6be1.chunk.js.LICENSE.txt",
@@ -26,9 +26,9 @@
     "static/media/objetivo1_recorte.94aed34c.gif": "/app/cruzadinhas/static/media/objetivo1_recorte.94aed34c.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5c5c31d.js",
+    "static/js/runtime-main.dfa7ab69.js",
     "static/js/2.dc9c6be1.chunk.js",
     "static/css/main.c1ea57fd.chunk.css",
-    "static/js/main.d5e1f2e2.chunk.js"
+    "static/js/main.cb58a300.chunk.js"
   ]
 }
