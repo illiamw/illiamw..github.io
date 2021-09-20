@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/app/cruzadinhas/static/css/main.2b41bbf4.chunk.css",
-    "main.js": "/app/cruzadinhas/static/js/main.b9327cfe.chunk.js",
-    "main.js.map": "/app/cruzadinhas/static/js/main.b9327cfe.chunk.js.map",
-    "runtime-main.js": "/app/cruzadinhas/static/js/runtime-main.7c1a0f66.js",
-    "runtime-main.js.map": "/app/cruzadinhas/static/js/runtime-main.7c1a0f66.js.map",
-    "static/js/2.69ffc484.chunk.js": "/app/cruzadinhas/static/js/2.69ffc484.chunk.js",
-    "static/js/2.69ffc484.chunk.js.map": "/app/cruzadinhas/static/js/2.69ffc484.chunk.js.map",
-    "static/js/3.5f45b0b5.chunk.js": "/app/cruzadinhas/static/js/3.5f45b0b5.chunk.js",
-    "static/js/3.5f45b0b5.chunk.js.map": "/app/cruzadinhas/static/js/3.5f45b0b5.chunk.js.map",
-    "static/js/4.93f6f78e.chunk.js": "/app/cruzadinhas/static/js/4.93f6f78e.chunk.js",
-    "static/js/4.93f6f78e.chunk.js.map": "/app/cruzadinhas/static/js/4.93f6f78e.chunk.js.map",
+    "main.css": "/app/cruzadinhas/static/css/main.d3bf06d1.chunk.css",
+    "main.js": "/app/cruzadinhas/static/js/main.c50600f2.chunk.js",
+    "main.js.map": "/app/cruzadinhas/static/js/main.c50600f2.chunk.js.map",
+    "runtime-main.js": "/app/cruzadinhas/static/js/runtime-main.800a7c5d.js",
+    "runtime-main.js.map": "/app/cruzadinhas/static/js/runtime-main.800a7c5d.js.map",
+    "static/js/2.18723bfa.chunk.js": "/app/cruzadinhas/static/js/2.18723bfa.chunk.js",
+    "static/js/2.18723bfa.chunk.js.map": "/app/cruzadinhas/static/js/2.18723bfa.chunk.js.map",
+    "static/js/3.a3d6c296.chunk.js": "/app/cruzadinhas/static/js/3.a3d6c296.chunk.js",
+    "static/js/3.a3d6c296.chunk.js.map": "/app/cruzadinhas/static/js/3.a3d6c296.chunk.js.map",
+    "static/js/4.ff55d31f.chunk.js": "/app/cruzadinhas/static/js/4.ff55d31f.chunk.js",
+    "static/js/4.ff55d31f.chunk.js.map": "/app/cruzadinhas/static/js/4.ff55d31f.chunk.js.map",
     "index.html": "/app/cruzadinhas/index.html",
-    "static/css/main.2b41bbf4.chunk.css.map": "/app/cruzadinhas/static/css/main.2b41bbf4.chunk.css.map",
-    "static/js/2.69ffc484.chunk.js.LICENSE.txt": "/app/cruzadinhas/static/js/2.69ffc484.chunk.js.LICENSE.txt",
+    "static/css/main.d3bf06d1.chunk.css.map": "/app/cruzadinhas/static/css/main.d3bf06d1.chunk.css.map",
+    "static/js/2.18723bfa.chunk.js.LICENSE.txt": "/app/cruzadinhas/static/js/2.18723bfa.chunk.js.LICENSE.txt",
     "static/media/Acao1_recorte.09158616.gif": "/app/cruzadinhas/static/media/Acao1_recorte.09158616.gif",
     "static/media/Diretrizes.scss": "/app/cruzadinhas/static/media/bgVitoria.879cde5a.webp",
     "static/media/destaque1_recorte.68d64f74.gif": "/app/cruzadinhas/static/media/destaque1_recorte.68d64f74.gif",
@@ -26,9 +26,9 @@
     "static/media/objetivo1_recorte.94aed34c.gif": "/app/cruzadinhas/static/media/objetivo1_recorte.94aed34c.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c1a0f66.js",
-    "static/js/2.69ffc484.chunk.js",
-    "static/css/main.2b41bbf4.chunk.css",
-    "static/js/main.b9327cfe.chunk.js"
+    "static/js/runtime-main.800a7c5d.js",
+    "static/js/2.18723bfa.chunk.js",
+    "static/css/main.d3bf06d1.chunk.css",
+    "static/js/main.c50600f2.chunk.js"
   ]
 }
