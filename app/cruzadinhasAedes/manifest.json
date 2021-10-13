@@ -18,8 +18,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url_alt": "https://illiamw.github.io/app/cruzadinhasAedes/",
-  "start_url": "https://eic.ifsc.usp.br/app/cruzadinhasAedes/",
+  "start_url": "https://illiamw.github.io/app/cruzadinhasAedes/",
+  "start_url_alt": "https://eic.ifsc.usp.br/app/cruzadinhasAedes/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
