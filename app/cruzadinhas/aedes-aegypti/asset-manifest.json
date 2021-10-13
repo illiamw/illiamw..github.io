@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/app/cruzadinhas/aedes-aegypti/static/css/main.cbf538bc.chunk.css",
+    "main.js": "/app/cruzadinhas/aedes-aegypti/static/js/main.31c5fa87.chunk.js",
+    "main.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/main.31c5fa87.chunk.js.map",
+    "runtime-main.js": "/app/cruzadinhas/aedes-aegypti/static/js/runtime-main.bae5896b.js",
+    "runtime-main.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/runtime-main.bae5896b.js.map",
+    "static/js/2.ac44f693.chunk.js": "/app/cruzadinhas/aedes-aegypti/static/js/2.ac44f693.chunk.js",
+    "static/js/2.ac44f693.chunk.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/2.ac44f693.chunk.js.map",
+    "static/js/3.b3589a09.chunk.js": "/app/cruzadinhas/aedes-aegypti/static/js/3.b3589a09.chunk.js",
+    "static/js/3.b3589a09.chunk.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/3.b3589a09.chunk.js.map",
+    "static/js/4.2c0e304f.chunk.js": "/app/cruzadinhas/aedes-aegypti/static/js/4.2c0e304f.chunk.js",
+    "static/js/4.2c0e304f.chunk.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/4.2c0e304f.chunk.js.map",
+    "index.html": "/app/cruzadinhas/aedes-aegypti/index.html",
+    "static/css/main.cbf538bc.chunk.css.map": "/app/cruzadinhas/aedes-aegypti/static/css/main.cbf538bc.chunk.css.map",
+    "static/js/2.ac44f693.chunk.js.LICENSE.txt": "/app/cruzadinhas/aedes-aegypti/static/js/2.ac44f693.chunk.js.LICENSE.txt",
+    "static/media/1_dicaContexto.46bd3cc8.gif": "/app/cruzadinhas/aedes-aegypti/static/media/1_dicaContexto.46bd3cc8.gif",
+    "static/media/2_SelecaoSwitch.62f6a16e.gif": "/app/cruzadinhas/aedes-aegypti/static/media/2_SelecaoSwitch.62f6a16e.gif",
+    "static/media/2_SelecaoTab.a271d828.gif": "/app/cruzadinhas/aedes-aegypti/static/media/2_SelecaoTab.a271d828.gif",
+    "static/media/3_Letras.1d70cab2.gif": "/app/cruzadinhas/aedes-aegypti/static/media/3_Letras.1d70cab2.gif",
+    "static/media/4_Acerto.ac160987.gif": "/app/cruzadinhas/aedes-aegypti/static/media/4_Acerto.ac160987.gif",
+    "static/media/4_Lista.6eff603d.gif": "/app/cruzadinhas/aedes-aegypti/static/media/4_Lista.6eff603d.gif",
+    "static/media/4_Lista_mob.317f1d83.gif": "/app/cruzadinhas/aedes-aegypti/static/media/4_Lista_mob.317f1d83.gif",
+    "static/media/Diretrizes.scss": "/app/cruzadinhas/aedes-aegypti/static/media/bgVitoria.879cde5a.webp",
+    "static/media/logo-eic-horizontal.822a9f0d.svg": "/app/cruzadinhas/aedes-aegypti/static/media/logo-eic-horizontal.822a9f0d.svg",
+    "static/media/logonav.457642d0.svg": "/app/cruzadinhas/aedes-aegypti/static/media/logonav.457642d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bae5896b.js",
+    "static/js/2.ac44f693.chunk.js",
+    "static/css/main.cbf538bc.chunk.css",
+    "static/js/main.31c5fa87.chunk.js"
+  ]
+}

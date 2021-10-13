@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/app/cruzadinhas/jardim-medicinal/static/css/main.0e0aa5e5.chunk.css",
+    "main.js": "/app/cruzadinhas/jardim-medicinal/static/js/main.d8db685d.chunk.js",
+    "main.js.map": "/app/cruzadinhas/jardim-medicinal/static/js/main.d8db685d.chunk.js.map",
+    "runtime-main.js": "/app/cruzadinhas/jardim-medicinal/static/js/runtime-main.811eeedc.js",
+    "runtime-main.js.map": "/app/cruzadinhas/jardim-medicinal/static/js/runtime-main.811eeedc.js.map",
+    "static/js/2.18723bfa.chunk.js": "/app/cruzadinhas/jardim-medicinal/static/js/2.18723bfa.chunk.js",
+    "static/js/2.18723bfa.chunk.js.map": "/app/cruzadinhas/jardim-medicinal/static/js/2.18723bfa.chunk.js.map",
+    "static/js/3.202308a4.chunk.js": "/app/cruzadinhas/jardim-medicinal/static/js/3.202308a4.chunk.js",
+    "static/js/3.202308a4.chunk.js.map": "/app/cruzadinhas/jardim-medicinal/static/js/3.202308a4.chunk.js.map",
+    "static/js/4.ff55d31f.chunk.js": "/app/cruzadinhas/jardim-medicinal/static/js/4.ff55d31f.chunk.js",
+    "static/js/4.ff55d31f.chunk.js.map": "/app/cruzadinhas/jardim-medicinal/static/js/4.ff55d31f.chunk.js.map",
+    "index.html": "/app/cruzadinhas/jardim-medicinal/index.html",
+    "static/css/main.0e0aa5e5.chunk.css.map": "/app/cruzadinhas/jardim-medicinal/static/css/main.0e0aa5e5.chunk.css.map",
+    "static/js/2.18723bfa.chunk.js.LICENSE.txt": "/app/cruzadinhas/jardim-medicinal/static/js/2.18723bfa.chunk.js.LICENSE.txt",
+    "static/media/Acao1_recorte.09158616.gif": "/app/cruzadinhas/jardim-medicinal/static/media/Acao1_recorte.09158616.gif",
+    "static/media/Diretrizes.scss": "/app/cruzadinhas/jardim-medicinal/static/media/bgVitoria.879cde5a.webp",
+    "static/media/destaque1_recorte.68d64f74.gif": "/app/cruzadinhas/jardim-medicinal/static/media/destaque1_recorte.68d64f74.gif",
+    "static/media/destaque2Mobile_recorte.984bfac2.gif": "/app/cruzadinhas/jardim-medicinal/static/media/destaque2Mobile_recorte.984bfac2.gif",
+    "static/media/destaque2_recorte.5aad57d8.gif": "/app/cruzadinhas/jardim-medicinal/static/media/destaque2_recorte.5aad57d8.gif",
+    "static/media/logo-eic-horizontal.822a9f0d.svg": "/app/cruzadinhas/jardim-medicinal/static/media/logo-eic-horizontal.822a9f0d.svg",
+    "static/media/logonav.457642d0.svg": "/app/cruzadinhas/jardim-medicinal/static/media/logonav.457642d0.svg",
+    "static/media/navegacao1_recorte.2fef8970.gif": "/app/cruzadinhas/jardim-medicinal/static/media/navegacao1_recorte.2fef8970.gif",
+    "static/media/navegacao2_recorte.b18ea79b.gif": "/app/cruzadinhas/jardim-medicinal/static/media/navegacao2_recorte.b18ea79b.gif",
+    "static/media/objetivo1_recorte.94aed34c.gif": "/app/cruzadinhas/jardim-medicinal/static/media/objetivo1_recorte.94aed34c.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.811eeedc.js",
+    "static/js/2.18723bfa.chunk.js",
+    "static/css/main.0e0aa5e5.chunk.css",
+    "static/js/main.d8db685d.chunk.js"
+  ]
+}
