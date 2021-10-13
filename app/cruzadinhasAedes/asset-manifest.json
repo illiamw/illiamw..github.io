@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/app/cruzadinhasAedes/static/css/main.43ade31a.chunk.css",
-    "main.js": "/app/cruzadinhasAedes/static/js/main.f8a88747.chunk.js",
-    "main.js.map": "/app/cruzadinhasAedes/static/js/main.f8a88747.chunk.js.map",
+    "main.js": "/app/cruzadinhasAedes/static/js/main.0429a100.chunk.js",
+    "main.js.map": "/app/cruzadinhasAedes/static/js/main.0429a100.chunk.js.map",
     "runtime-main.js": "/app/cruzadinhasAedes/static/js/runtime-main.feef2d6d.js",
     "runtime-main.js.map": "/app/cruzadinhasAedes/static/js/runtime-main.feef2d6d.js.map",
     "static/js/2.ac44f693.chunk.js": "/app/cruzadinhasAedes/static/js/2.ac44f693.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.feef2d6d.js",
     "static/js/2.ac44f693.chunk.js",
     "static/css/main.43ade31a.chunk.css",
-    "static/js/main.f8a88747.chunk.js"
+    "static/js/main.0429a100.chunk.js"
   ]
 }
