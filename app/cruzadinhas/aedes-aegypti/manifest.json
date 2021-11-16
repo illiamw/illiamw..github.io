@@ -18,8 +18,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://illiamw.github.io/app/cruzadinhas/aedes-aegypti/",
-  "start_url_alt": "https://eic.ifsc.usp.br/app/cruzadinhas/aedes-aegypti/",
+  "start_url_alt": "https://illiamw.github.io/app/cruzadinhas/aedes-aegypti/",
+  "start_url": "https://eic.ifsc.usp.br/app/cruzadinhas/aedes-aegypti/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
