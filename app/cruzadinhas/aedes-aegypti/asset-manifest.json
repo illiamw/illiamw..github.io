@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/app/cruzadinhas/aedes-aegypti/static/css/main.cebd9f47.chunk.css",
-    "main.js": "/app/cruzadinhas/aedes-aegypti/static/js/main.eef65afd.chunk.js",
-    "main.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/main.eef65afd.chunk.js.map",
-    "runtime-main.js": "/app/cruzadinhas/aedes-aegypti/static/js/runtime-main.710b552a.js",
-    "runtime-main.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/runtime-main.710b552a.js.map",
+    "main.js": "/app/cruzadinhas/aedes-aegypti/static/js/main.4865e1d1.chunk.js",
+    "main.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/main.4865e1d1.chunk.js.map",
+    "runtime-main.js": "/app/cruzadinhas/aedes-aegypti/static/js/runtime-main.b2bfde70.js",
+    "runtime-main.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/runtime-main.b2bfde70.js.map",
     "static/js/2.8e70eef0.chunk.js": "/app/cruzadinhas/aedes-aegypti/static/js/2.8e70eef0.chunk.js",
     "static/js/2.8e70eef0.chunk.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/2.8e70eef0.chunk.js.map",
-    "static/js/3.eb3defa0.chunk.js": "/app/cruzadinhas/aedes-aegypti/static/js/3.eb3defa0.chunk.js",
-    "static/js/3.eb3defa0.chunk.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/3.eb3defa0.chunk.js.map",
+    "static/js/3.5b93373f.chunk.js": "/app/cruzadinhas/aedes-aegypti/static/js/3.5b93373f.chunk.js",
+    "static/js/3.5b93373f.chunk.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/3.5b93373f.chunk.js.map",
     "static/js/4.2d243954.chunk.js": "/app/cruzadinhas/aedes-aegypti/static/js/4.2d243954.chunk.js",
     "static/js/4.2d243954.chunk.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/4.2d243954.chunk.js.map",
     "index.html": "/app/cruzadinhas/aedes-aegypti/index.html",
@@ -31,9 +31,9 @@
     "static/media/rank-Button-PNG.65af0265.webp": "/app/cruzadinhas/aedes-aegypti/static/media/rank-Button-PNG.65af0265.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.710b552a.js",
+    "static/js/runtime-main.b2bfde70.js",
     "static/js/2.8e70eef0.chunk.js",
     "static/css/main.cebd9f47.chunk.css",
-    "static/js/main.eef65afd.chunk.js"
+    "static/js/main.4865e1d1.chunk.js"
   ]
 }
