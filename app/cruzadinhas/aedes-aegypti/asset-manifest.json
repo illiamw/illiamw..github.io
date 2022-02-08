@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/app/cruzadinhas/aedes-aegypti/static/css/main.337298e9.chunk.css",
-    "main.js": "/app/cruzadinhas/aedes-aegypti/static/js/main.95a971cf.chunk.js",
-    "main.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/main.95a971cf.chunk.js.map",
+    "main.js": "/app/cruzadinhas/aedes-aegypti/static/js/main.ebfb03c8.chunk.js",
+    "main.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/main.ebfb03c8.chunk.js.map",
     "runtime-main.js": "/app/cruzadinhas/aedes-aegypti/static/js/runtime-main.8a6862d6.js",
     "runtime-main.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/runtime-main.8a6862d6.js.map",
     "static/css/2.3348c265.chunk.css": "/app/cruzadinhas/aedes-aegypti/static/css/2.3348c265.chunk.css",
@@ -37,6 +37,6 @@
     "static/css/2.3348c265.chunk.css",
     "static/js/2.347ff9c3.chunk.js",
     "static/css/main.337298e9.chunk.css",
-    "static/js/main.95a971cf.chunk.js"
+    "static/js/main.ebfb03c8.chunk.js"
   ]
 }

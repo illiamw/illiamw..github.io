@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/app/cruzadinhas/covid/static/css/main.0c491e8d.chunk.css",
-    "main.js": "/app/cruzadinhas/covid/static/js/main.89c5a8ec.chunk.js",
-    "main.js.map": "/app/cruzadinhas/covid/static/js/main.89c5a8ec.chunk.js.map",
+    "main.js": "/app/cruzadinhas/covid/static/js/main.a1670cb1.chunk.js",
+    "main.js.map": "/app/cruzadinhas/covid/static/js/main.a1670cb1.chunk.js.map",
     "runtime-main.js": "/app/cruzadinhas/covid/static/js/runtime-main.3fb7a1d7.js",
     "runtime-main.js.map": "/app/cruzadinhas/covid/static/js/runtime-main.3fb7a1d7.js.map",
     "static/css/2.3348c265.chunk.css": "/app/cruzadinhas/covid/static/css/2.3348c265.chunk.css",
@@ -34,6 +34,6 @@
     "static/css/2.3348c265.chunk.css",
     "static/js/2.c35ae90e.chunk.js",
     "static/css/main.0c491e8d.chunk.css",
-    "static/js/main.89c5a8ec.chunk.js"
+    "static/js/main.a1670cb1.chunk.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/app/cruzadinhas/jardim-medicinal/static/css/main.950f8234.chunk.css",
-    "main.js": "/app/cruzadinhas/jardim-medicinal/static/js/main.0d96dd0d.chunk.js",
-    "main.js.map": "/app/cruzadinhas/jardim-medicinal/static/js/main.0d96dd0d.chunk.js.map",
+    "main.js": "/app/cruzadinhas/jardim-medicinal/static/js/main.d4a2f6ed.chunk.js",
+    "main.js.map": "/app/cruzadinhas/jardim-medicinal/static/js/main.d4a2f6ed.chunk.js.map",
     "runtime-main.js": "/app/cruzadinhas/jardim-medicinal/static/js/runtime-main.74c7c5bd.js",
     "runtime-main.js.map": "/app/cruzadinhas/jardim-medicinal/static/js/runtime-main.74c7c5bd.js.map",
     "static/css/2.6082f075.chunk.css": "/app/cruzadinhas/jardim-medicinal/static/css/2.6082f075.chunk.css",
@@ -37,6 +37,6 @@
     "static/css/2.6082f075.chunk.css",
     "static/js/2.36588e65.chunk.js",
     "static/css/main.950f8234.chunk.css",
-    "static/js/main.0d96dd0d.chunk.js"
+    "static/js/main.d4a2f6ed.chunk.js"
   ]
 }
