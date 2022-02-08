@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/app/cruzadinhas/covid/static/css/main.0c491e8d.chunk.css",
+    "main.js": "/app/cruzadinhas/covid/static/js/main.89c5a8ec.chunk.js",
+    "main.js.map": "/app/cruzadinhas/covid/static/js/main.89c5a8ec.chunk.js.map",
+    "runtime-main.js": "/app/cruzadinhas/covid/static/js/runtime-main.3fb7a1d7.js",
+    "runtime-main.js.map": "/app/cruzadinhas/covid/static/js/runtime-main.3fb7a1d7.js.map",
+    "static/css/2.3348c265.chunk.css": "/app/cruzadinhas/covid/static/css/2.3348c265.chunk.css",
+    "static/js/2.c35ae90e.chunk.js": "/app/cruzadinhas/covid/static/js/2.c35ae90e.chunk.js",
+    "static/js/2.c35ae90e.chunk.js.map": "/app/cruzadinhas/covid/static/js/2.c35ae90e.chunk.js.map",
+    "static/js/3.994f26c8.chunk.js": "/app/cruzadinhas/covid/static/js/3.994f26c8.chunk.js",
+    "static/js/3.994f26c8.chunk.js.map": "/app/cruzadinhas/covid/static/js/3.994f26c8.chunk.js.map",
+    "static/js/4.7561c040.chunk.js": "/app/cruzadinhas/covid/static/js/4.7561c040.chunk.js",
+    "static/js/4.7561c040.chunk.js.map": "/app/cruzadinhas/covid/static/js/4.7561c040.chunk.js.map",
+    "index.html": "/app/cruzadinhas/covid/index.html",
+    "static/css/2.3348c265.chunk.css.map": "/app/cruzadinhas/covid/static/css/2.3348c265.chunk.css.map",
+    "static/css/main.0c491e8d.chunk.css.map": "/app/cruzadinhas/covid/static/css/main.0c491e8d.chunk.css.map",
+    "static/js/2.c35ae90e.chunk.js.LICENSE.txt": "/app/cruzadinhas/covid/static/js/2.c35ae90e.chunk.js.LICENSE.txt",
+    "static/media/1_dicaContexto.46bd3cc8.gif": "/app/cruzadinhas/covid/static/media/1_dicaContexto.46bd3cc8.gif",
+    "static/media/2_SelecaoSwitch.62f6a16e.gif": "/app/cruzadinhas/covid/static/media/2_SelecaoSwitch.62f6a16e.gif",
+    "static/media/2_SelecaoTab.a271d828.gif": "/app/cruzadinhas/covid/static/media/2_SelecaoTab.a271d828.gif",
+    "static/media/3_Letras.1d70cab2.gif": "/app/cruzadinhas/covid/static/media/3_Letras.1d70cab2.gif",
+    "static/media/4_Acerto.ac160987.gif": "/app/cruzadinhas/covid/static/media/4_Acerto.ac160987.gif",
+    "static/media/4_Lista.6eff603d.gif": "/app/cruzadinhas/covid/static/media/4_Lista.6eff603d.gif",
+    "static/media/4_Lista_mob.317f1d83.gif": "/app/cruzadinhas/covid/static/media/4_Lista_mob.317f1d83.gif",
+    "static/media/Game-Button-PNG.4c77b753.webp": "/app/cruzadinhas/covid/static/media/Game-Button-PNG.4c77b753.webp",
+    "static/media/Diretrizes.scss": "/app/cruzadinhas/covid/static/media/bgVitoria.879cde5a.webp",
+    "static/media/logo-eic-horizontal.3a968bdb.svg": "/app/cruzadinhas/covid/static/media/logo-eic-horizontal.3a968bdb.svg",
+    "static/media/logonav.d71407d5.svg": "/app/cruzadinhas/covid/static/media/logonav.d71407d5.svg",
+    "static/media/rank-Button-PNG.7d60b25c.webp": "/app/cruzadinhas/covid/static/media/rank-Button-PNG.7d60b25c.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fb7a1d7.js",
+    "static/css/2.3348c265.chunk.css",
+    "static/js/2.c35ae90e.chunk.js",
+    "static/css/main.0c491e8d.chunk.css",
+    "static/js/main.89c5a8ec.chunk.js"
+  ]
+}

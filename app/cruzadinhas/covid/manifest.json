@@ -1,6 +1,6 @@
 {
-  "short_name": "Aedes",
-  "name": "Jogo Cruzadinhas: Aedes",
+  "short_name": "COVID",
+  "name": "Jogo Cruzadinhas: COVID",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,9 +18,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://illiamw.github.io/app/cruzadinhas/aedes-aegypti/",
-  "start_url_alt": "https://eic.ifsc.usp.br/app/cruzadinhas/aedes-aegypti/",
+  "start_url": "https://illiamw.github.io/app/cruzadinhas/covid/",
+  "start_url_alt": "https://eic.ifsc.usp.br/app/cruzadinhas/covid/",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#ab1e1e ",
   "background_color": "#ffffff"
 }
