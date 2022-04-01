@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/app/cruzadinhas/aedes-aegypti/static/css/main.6c6ad2dd.chunk.css",
-    "main.js": "/app/cruzadinhas/aedes-aegypti/static/js/main.e46b0caf.chunk.js",
-    "main.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/main.e46b0caf.chunk.js.map",
-    "runtime-main.js": "/app/cruzadinhas/aedes-aegypti/static/js/runtime-main.a7b7252c.js",
-    "runtime-main.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/runtime-main.a7b7252c.js.map",
+    "main.css": "/app/cruzadinhas/aedes-aegypti/static/css/main.28ffbc02.chunk.css",
+    "main.js": "/app/cruzadinhas/aedes-aegypti/static/js/main.041a5812.chunk.js",
+    "main.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/main.041a5812.chunk.js.map",
+    "runtime-main.js": "/app/cruzadinhas/aedes-aegypti/static/js/runtime-main.0cdf65ac.js",
+    "runtime-main.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/runtime-main.0cdf65ac.js.map",
     "static/css/2.3348c265.chunk.css": "/app/cruzadinhas/aedes-aegypti/static/css/2.3348c265.chunk.css",
     "static/js/2.347ff9c3.chunk.js": "/app/cruzadinhas/aedes-aegypti/static/js/2.347ff9c3.chunk.js",
     "static/js/2.347ff9c3.chunk.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/2.347ff9c3.chunk.js.map",
-    "static/js/3.39063d93.chunk.js": "/app/cruzadinhas/aedes-aegypti/static/js/3.39063d93.chunk.js",
-    "static/js/3.39063d93.chunk.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/3.39063d93.chunk.js.map",
+    "static/js/3.e769e494.chunk.js": "/app/cruzadinhas/aedes-aegypti/static/js/3.e769e494.chunk.js",
+    "static/js/3.e769e494.chunk.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/3.e769e494.chunk.js.map",
     "static/js/4.7f68edf6.chunk.js": "/app/cruzadinhas/aedes-aegypti/static/js/4.7f68edf6.chunk.js",
     "static/js/4.7f68edf6.chunk.js.map": "/app/cruzadinhas/aedes-aegypti/static/js/4.7f68edf6.chunk.js.map",
     "index.html": "/app/cruzadinhas/aedes-aegypti/index.html",
     "static/css/2.3348c265.chunk.css.map": "/app/cruzadinhas/aedes-aegypti/static/css/2.3348c265.chunk.css.map",
-    "static/css/main.6c6ad2dd.chunk.css.map": "/app/cruzadinhas/aedes-aegypti/static/css/main.6c6ad2dd.chunk.css.map",
+    "static/css/main.28ffbc02.chunk.css.map": "/app/cruzadinhas/aedes-aegypti/static/css/main.28ffbc02.chunk.css.map",
     "static/js/2.347ff9c3.chunk.js.LICENSE.txt": "/app/cruzadinhas/aedes-aegypti/static/js/2.347ff9c3.chunk.js.LICENSE.txt",
     "static/media/1_dicaContexto.46bd3cc8.gif": "/app/cruzadinhas/aedes-aegypti/static/media/1_dicaContexto.46bd3cc8.gif",
     "static/media/2_SelecaoSwitch.62f6a16e.gif": "/app/cruzadinhas/aedes-aegypti/static/media/2_SelecaoSwitch.62f6a16e.gif",
@@ -28,15 +28,16 @@
     "static/media/arbusto2.888c12cd.webp": "/app/cruzadinhas/aedes-aegypti/static/media/arbusto2.888c12cd.webp",
     "static/media/arbusto3.e3c5fd60.webp": "/app/cruzadinhas/aedes-aegypti/static/media/arbusto3.e3c5fd60.webp",
     "static/media/Diretrizes.scss": "/app/cruzadinhas/aedes-aegypti/static/media/caminho.75cf7ae2.webp",
+    "static/media/carregar.aeff492a.gif": "/app/cruzadinhas/aedes-aegypti/static/media/carregar.aeff492a.gif",
     "static/media/logo-eic-horizontal.3a968bdb.svg": "/app/cruzadinhas/aedes-aegypti/static/media/logo-eic-horizontal.3a968bdb.svg",
     "static/media/logonav.d71407d5.svg": "/app/cruzadinhas/aedes-aegypti/static/media/logonav.d71407d5.svg",
     "static/media/rank-Button-PNG.7d60b25c.webp": "/app/cruzadinhas/aedes-aegypti/static/media/rank-Button-PNG.7d60b25c.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7b7252c.js",
+    "static/js/runtime-main.0cdf65ac.js",
     "static/css/2.3348c265.chunk.css",
     "static/js/2.347ff9c3.chunk.js",
-    "static/css/main.6c6ad2dd.chunk.css",
-    "static/js/main.e46b0caf.chunk.js"
+    "static/css/main.28ffbc02.chunk.css",
+    "static/js/main.041a5812.chunk.js"
   ]
 }
