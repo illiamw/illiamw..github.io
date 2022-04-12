@@ -1,0 +1,35 @@
+{
+  "files": {
+    "app.js": "/app/discoAminoacidos/static/js/app.d727648a.chunk.js",
+    "app.js.map": "/app/discoAminoacidos/static/js/app.d727648a.chunk.js.map",
+    "runtime~app.js": "/app/discoAminoacidos/static/js/runtime~app.0f975217.js",
+    "runtime~app.js.map": "/app/discoAminoacidos/static/js/runtime~app.0f975217.js.map",
+    "static/js/2.12e08ea0.chunk.js": "/app/discoAminoacidos/static/js/2.12e08ea0.chunk.js",
+    "static/js/2.12e08ea0.chunk.js.map": "/app/discoAminoacidos/static/js/2.12e08ea0.chunk.js.map",
+    "fonts/AntDesign.ttf": "/app/discoAminoacidos/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/app/discoAminoacidos/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/app/discoAminoacidos/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/app/discoAminoacidos/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/app/discoAminoacidos/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/app/discoAminoacidos/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/app/discoAminoacidos/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/app/discoAminoacidos/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/app/discoAminoacidos/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/app/discoAminoacidos/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/app/discoAminoacidos/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/app/discoAminoacidos/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/app/discoAminoacidos/favicon-16.png",
+    "favicon-32.png": "/app/discoAminoacidos/favicon-32.png",
+    "favicon.ico": "/app/discoAminoacidos/favicon.ico",
+    "index.html": "/app/discoAminoacidos/index.html",
+    "manifest.json": "/app/discoAminoacidos/manifest.json",
+    "serve.json": "/app/discoAminoacidos/serve.json",
+    "static/js/2.12e08ea0.chunk.js.LICENSE.txt": "/app/discoAminoacidos/static/js/2.12e08ea0.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/app/discoAminoacidos/static/media/logo.9a2cbb7e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.0f975217.js",
+    "static/js/2.12e08ea0.chunk.js",
+    "static/js/app.d727648a.chunk.js"
+  ]
+}
