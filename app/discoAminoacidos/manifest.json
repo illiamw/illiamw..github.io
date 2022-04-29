@@ -2,10 +2,22 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "DiscoAminoacidos",
-  "short_name": "DiscoAminoacidos",
+  "name": "Disco de Aminoácidos",
+  "short_name": "Disco de Aminoácidos",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.illiamw.DiscoAminoacidos"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.illiamw.DiscoAminoacidos",
+      "id": "com.illiamw.DiscoAminoacidos"
+    }
+  ],
+  "prefer_related_applications": true,
   "icons": [
     {
       "src": "\\app\\discoAminoacidos\\pwa\\chrome-icon\\chrome-icon-144.png",

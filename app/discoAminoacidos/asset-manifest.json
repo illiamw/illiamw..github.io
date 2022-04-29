@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/app/discoAminoacidos/static/js/app.d727648a.chunk.js",
-    "app.js.map": "/app/discoAminoacidos/static/js/app.d727648a.chunk.js.map",
+    "app.js": "/app/discoAminoacidos/static/js/app.77ced599.chunk.js",
+    "app.js.map": "/app/discoAminoacidos/static/js/app.77ced599.chunk.js.map",
     "runtime~app.js": "/app/discoAminoacidos/static/js/runtime~app.0f975217.js",
     "runtime~app.js.map": "/app/discoAminoacidos/static/js/runtime~app.0f975217.js.map",
-    "static/js/2.12e08ea0.chunk.js": "/app/discoAminoacidos/static/js/2.12e08ea0.chunk.js",
-    "static/js/2.12e08ea0.chunk.js.map": "/app/discoAminoacidos/static/js/2.12e08ea0.chunk.js.map",
+    "static/js/2.8aa7840e.chunk.js": "/app/discoAminoacidos/static/js/2.8aa7840e.chunk.js",
+    "static/js/2.8aa7840e.chunk.js.map": "/app/discoAminoacidos/static/js/2.8aa7840e.chunk.js.map",
     "fonts/AntDesign.ttf": "/app/discoAminoacidos/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/app/discoAminoacidos/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/app/discoAminoacidos/./fonts/Feather.ttf",
@@ -24,12 +24,20 @@
     "index.html": "/app/discoAminoacidos/index.html",
     "manifest.json": "/app/discoAminoacidos/manifest.json",
     "serve.json": "/app/discoAminoacidos/serve.json",
-    "static/js/2.12e08ea0.chunk.js.LICENSE.txt": "/app/discoAminoacidos/static/js/2.12e08ea0.chunk.js.LICENSE.txt",
+    "static/js/2.8aa7840e.chunk.js.LICENSE.txt": "/app/discoAminoacidos/static/js/2.8aa7840e.chunk.js.LICENSE.txt",
+    "static/media/ala.gif": "/app/discoAminoacidos/static/media/ala.86c10f73.gif",
+    "static/media/backgroud.png": "/app/discoAminoacidos/static/media/backgroud.d62cf324.png",
+    "static/media/base.png": "/app/discoAminoacidos/static/media/base.c1fade28.png",
+    "static/media/basebranca.png": "/app/discoAminoacidos/static/media/basebranca.4582e78d.png",
+    "static/media/discoverso.png": "/app/discoAminoacidos/static/media/discoverso.93ef38a4.png",
+    "static/media/gabarito.png": "/app/discoAminoacidos/static/media/gabarito.c553c40d.png",
+    "static/media/gln.png": "/app/discoAminoacidos/static/media/gln.0afeee4a.png",
+    "static/media/his.png": "/app/discoAminoacidos/static/media/his.3dabca9e.png",
     "static/media/logo.png": "/app/discoAminoacidos/static/media/logo.9a2cbb7e.png"
   },
   "entrypoints": [
     "static/js/runtime~app.0f975217.js",
-    "static/js/2.12e08ea0.chunk.js",
-    "static/js/app.d727648a.chunk.js"
+    "static/js/2.8aa7840e.chunk.js",
+    "static/js/app.77ced599.chunk.js"
   ]
 }
