@@ -1,0 +1,38 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "1.5.1 - Disco de Aminoácidos",
+  "short_name": "1.5.1 - Disco de Aminoácidos",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.illiamw.DiscoAminoacidos"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.illiamw.DiscoAminoacidos",
+      "id": "com.illiamw.DiscoAminoacidos"
+    }
+  ],
+  "prefer_related_applications": true,
+  "icons": [
+    {
+      "src": "\\app\\disco-de-aminoacidos\\pwa\\chrome-icon\\chrome-icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "\\app\\disco-de-aminoacidos\\pwa\\chrome-icon\\chrome-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "\\app\\disco-de-aminoacidos\\pwa\\chrome-icon\\chrome-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
