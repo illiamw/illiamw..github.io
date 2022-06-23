@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "1.5.2 - Disco de Aminoácidos",
-  "short_name": "1.5.2 - Disco de Aminoácidos",
+  "name": "1.5.4 - Disco de Aminoácidos",
+  "short_name": "1.5.4 - Disco de Aminoácidos",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
