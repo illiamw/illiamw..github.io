@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/app/disco-de-aminoacidos/static/js/app.f1dff0e3.chunk.js",
-    "app.js.map": "/app/disco-de-aminoacidos/static/js/app.f1dff0e3.chunk.js.map",
+    "app.js": "/app/disco-de-aminoacidos/static/js/app.70d8f67e.chunk.js",
+    "app.js.map": "/app/disco-de-aminoacidos/static/js/app.70d8f67e.chunk.js.map",
     "runtime~app.js": "/app/disco-de-aminoacidos/static/js/runtime~app.0b68df73.js",
     "runtime~app.js.map": "/app/disco-de-aminoacidos/static/js/runtime~app.0b68df73.js.map",
-    "static/js/2.f260289d.chunk.js": "/app/disco-de-aminoacidos/static/js/2.f260289d.chunk.js",
-    "static/js/2.f260289d.chunk.js.map": "/app/disco-de-aminoacidos/static/js/2.f260289d.chunk.js.map",
+    "static/js/2.bcce7467.chunk.js": "/app/disco-de-aminoacidos/static/js/2.bcce7467.chunk.js",
+    "static/js/2.bcce7467.chunk.js.map": "/app/disco-de-aminoacidos/static/js/2.bcce7467.chunk.js.map",
     "fonts/AntDesign.ttf": "/app/disco-de-aminoacidos/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/app/disco-de-aminoacidos/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/app/disco-de-aminoacidos/./fonts/Feather.ttf",
@@ -24,7 +24,7 @@
     "index.html": "/app/disco-de-aminoacidos/index.html",
     "manifest.json": "/app/disco-de-aminoacidos/manifest.json",
     "serve.json": "/app/disco-de-aminoacidos/serve.json",
-    "static/js/2.f260289d.chunk.js.LICENSE.txt": "/app/disco-de-aminoacidos/static/js/2.f260289d.chunk.js.LICENSE.txt",
+    "static/js/2.bcce7467.chunk.js.LICENSE.txt": "/app/disco-de-aminoacidos/static/js/2.bcce7467.chunk.js.LICENSE.txt",
     "static/media/ala.png": "/app/disco-de-aminoacidos/static/media/ala.8c6359cd.png",
     "static/media/ala.gif": "/app/disco-de-aminoacidos/static/media/ala.aac7c2cb.gif",
     "static/media/alphabase.png": "/app/disco-de-aminoacidos/static/media/alphabase.b74ec46f.png",
@@ -75,7 +75,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.0b68df73.js",
-    "static/js/2.f260289d.chunk.js",
-    "static/js/app.f1dff0e3.chunk.js"
+    "static/js/2.bcce7467.chunk.js",
+    "static/js/app.70d8f67e.chunk.js"
   ]
 }
