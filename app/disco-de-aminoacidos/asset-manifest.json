@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/app/disco-de-aminoacidos/static/js/app.72ab98a0.chunk.js",
-    "app.js.map": "/app/disco-de-aminoacidos/static/js/app.72ab98a0.chunk.js.map",
+    "app.js": "/app/disco-de-aminoacidos/static/js/app.f1dff0e3.chunk.js",
+    "app.js.map": "/app/disco-de-aminoacidos/static/js/app.f1dff0e3.chunk.js.map",
     "runtime~app.js": "/app/disco-de-aminoacidos/static/js/runtime~app.0b68df73.js",
     "runtime~app.js.map": "/app/disco-de-aminoacidos/static/js/runtime~app.0b68df73.js.map",
     "static/js/2.f260289d.chunk.js": "/app/disco-de-aminoacidos/static/js/2.f260289d.chunk.js",
@@ -76,6 +76,6 @@
   "entrypoints": [
     "static/js/runtime~app.0b68df73.js",
     "static/js/2.f260289d.chunk.js",
-    "static/js/app.72ab98a0.chunk.js"
+    "static/js/app.f1dff0e3.chunk.js"
   ]
 }
