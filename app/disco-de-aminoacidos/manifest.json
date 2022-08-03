@@ -2,19 +2,19 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "1.5.4 - Disco de Aminoácidos",
-  "short_name": "1.5.4 - Disco de Aminoácidos",
+  "name": "Disco de Aminoácidos",
+  "short_name": "Disco de Aminoácidos",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "com.illiamw.DiscoAminoacidos"
+      "id": "com.eic.usp.DiscoAminoacidos"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=com.illiamw.DiscoAminoacidos",
-      "id": "com.illiamw.DiscoAminoacidos"
+      "url": "http://play.google.com/store/apps/details?id=com.eic.usp.DiscoAminoacidos",
+      "id": "com.eic.usp.DiscoAminoacidos"
     }
   ],
   "prefer_related_applications": true,
