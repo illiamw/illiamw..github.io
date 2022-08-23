@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/app/disco-de-aminoacidos/static/js/app.0dd83825.chunk.js",
-    "app.js.map": "/app/disco-de-aminoacidos/static/js/app.0dd83825.chunk.js.map",
+    "app.js": "/app/disco-de-aminoacidos/static/js/app.3a668648.chunk.js",
+    "app.js.map": "/app/disco-de-aminoacidos/static/js/app.3a668648.chunk.js.map",
     "runtime~app.js": "/app/disco-de-aminoacidos/static/js/runtime~app.8f87022b.js",
     "runtime~app.js.map": "/app/disco-de-aminoacidos/static/js/runtime~app.8f87022b.js.map",
-    "static/js/2.a746d7c4.chunk.js": "/app/disco-de-aminoacidos/static/js/2.a746d7c4.chunk.js",
-    "static/js/2.a746d7c4.chunk.js.map": "/app/disco-de-aminoacidos/static/js/2.a746d7c4.chunk.js.map",
+    "static/js/2.990c8cb1.chunk.js": "/app/disco-de-aminoacidos/static/js/2.990c8cb1.chunk.js",
+    "static/js/2.990c8cb1.chunk.js.map": "/app/disco-de-aminoacidos/static/js/2.990c8cb1.chunk.js.map",
     "fonts/AntDesign.ttf": "/app/disco-de-aminoacidos/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/app/disco-de-aminoacidos/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/app/disco-de-aminoacidos/./fonts/Feather.ttf",
@@ -24,7 +24,7 @@
     "index.html": "/app/disco-de-aminoacidos/index.html",
     "manifest.json": "/app/disco-de-aminoacidos/manifest.json",
     "serve.json": "/app/disco-de-aminoacidos/serve.json",
-    "static/js/2.a746d7c4.chunk.js.LICENSE.txt": "/app/disco-de-aminoacidos/static/js/2.a746d7c4.chunk.js.LICENSE.txt",
+    "static/js/2.990c8cb1.chunk.js.LICENSE.txt": "/app/disco-de-aminoacidos/static/js/2.990c8cb1.chunk.js.LICENSE.txt",
     "static/media/ala.png": "/app/disco-de-aminoacidos/static/media/ala.8c6359cd.png",
     "static/media/ala.gif": "/app/disco-de-aminoacidos/static/media/ala.aac7c2cb.gif",
     "static/media/alphabase.png": "/app/disco-de-aminoacidos/static/media/alphabase.b74ec46f.png",
@@ -36,9 +36,15 @@
     "static/media/asp.gif": "/app/disco-de-aminoacidos/static/media/asp.a737bcfa.gif",
     "static/media/backgroud.png": "/app/disco-de-aminoacidos/static/media/backgroud.d62cf324.png",
     "static/media/base.png": "/app/disco-de-aminoacidos/static/media/base.c1fade28.png",
+    "static/media/cepid.jpg": "/app/disco-de-aminoacidos/static/media/cepid.d67fed45.jpg",
+    "static/media/cepidmini.jpg": "/app/disco-de-aminoacidos/static/media/cepidmini.5f19871a.jpg",
+    "static/media/cibfar.png": "/app/disco-de-aminoacidos/static/media/cibfar.df3eafb7.png",
+    "static/media/cibfarmini.png": "/app/disco-de-aminoacidos/static/media/cibfarmini.367b378a.png",
     "static/media/cys.gif": "/app/disco-de-aminoacidos/static/media/cys.52ef2259.gif",
     "static/media/cys.png": "/app/disco-de-aminoacidos/static/media/cys.88251926.png",
     "static/media/discoverso.png": "/app/disco-de-aminoacidos/static/media/discoverso.d7c2e05c.png",
+    "static/media/eic.png": "/app/disco-de-aminoacidos/static/media/eic.068e582c.png",
+    "static/media/eicmini.png": "/app/disco-de-aminoacidos/static/media/eicmini.6cc7952a.png",
     "static/media/gabarito.png": "/app/disco-de-aminoacidos/static/media/gabarito.baddc09d.png",
     "static/media/gln.png": "/app/disco-de-aminoacidos/static/media/gln.6e5ec068.png",
     "static/media/gln.gif": "/app/disco-de-aminoacidos/static/media/gln.4788483a.gif",
@@ -48,6 +54,8 @@
     "static/media/gly.gif": "/app/disco-de-aminoacidos/static/media/gly.4756a725.gif",
     "static/media/his.png": "/app/disco-de-aminoacidos/static/media/his.99ad3973.png",
     "static/media/his.gif": "/app/disco-de-aminoacidos/static/media/his.8efe5c50.gif",
+    "static/media/ifsc.jpg": "/app/disco-de-aminoacidos/static/media/ifsc.cb6e196f.jpg",
+    "static/media/ifscmini.jpg": "/app/disco-de-aminoacidos/static/media/ifscmini.ffe72eb1.jpg",
     "static/media/ile.gif": "/app/disco-de-aminoacidos/static/media/ile.45f936c8.gif",
     "static/media/ile.png": "/app/disco-de-aminoacidos/static/media/ile.d9528e11.png",
     "static/media/leu.png": "/app/disco-de-aminoacidos/static/media/leu.726b32af.png",
@@ -74,7 +82,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.8f87022b.js",
-    "static/js/2.a746d7c4.chunk.js",
-    "static/js/app.0dd83825.chunk.js"
+    "static/js/2.990c8cb1.chunk.js",
+    "static/js/app.3a668648.chunk.js"
   ]
 }
